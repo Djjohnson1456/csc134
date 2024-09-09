@@ -14,10 +14,20 @@ int lengthl
 int width;
 int height;
 
+
+
+
+
+
+
+
+
 //say hi
+ /*
  cout << hi, what's your name
 cin >> name;
 cout << "nice to meet you, " <<name << endl;
+
 
 // ask user questions
  cout << "let's get the crate dimensions ." << endl;
@@ -25,8 +35,20 @@ cout << "nice to meet you, " <<name << endl;
  cin >> length;
 cout << "what's the width? ";
 cin >> width;
+cout << "finally, what's the height? ";
+cin >> height;
 
-
+//caculations 
+volume = length * width height ;
+ // cost caculations
+ cost =         volume * Cost_per_cu_ft;
+ customer_price = volume * Price_per_cu_ft
+ profit = customer-price - cost
+ 
+ // output
  cout << "crate: " << width >> " x " << length << endl;
-
+ cout << "total volume is: " << volume << " cubic feet. " << endl;
+ // output the cost, the customer price, and the profit 
+  cout << "Cost to manufacture is $" <<customer_price << endl;
+ cout << "Total profit is $' << profit << endl;"
 
