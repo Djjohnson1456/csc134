@@ -1,0 +1,32 @@
+
+#include <iostream>
+using namespace std;
+
+// CSC 134
+// M2LAB1
+// johnson 
+// 9/9/2024
+
+int main() {
+// set up variables
+   string name;
+int lengthl
+int width;
+int height;
+
+//say hi
+ cout << hi, what's your name
+cin >> name;
+cout << "nice to meet you, " <<name << endl;
+
+// ask user questions
+ cout << "let's get the crate dimensions ." << endl;
+ cout << "what's the length? ";
+ cin >> length;
+cout << "what's the width? ";
+cin >> width;
+
+
+ cout << "crate: " << width >> " x " << length << endl;
+
+
