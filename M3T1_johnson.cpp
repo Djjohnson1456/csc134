@@ -11,8 +11,8 @@ using namespace std;
 
 int main()  {
 // Set up variables 
-double width1, width2, length1, length 2;
-double area 1, area 2;
+double width1, width2, length1, length2;
+double area1, area2; 
 
 cout << "M3T1- Area of two rectangles" << endl;
 cout << "width of first rectangle:" << endl;
@@ -21,6 +21,9 @@ cout << "lengthof first rectangle :" << endl;
 cin >> length1;
 cout << endl;
 cout << " width of second rectangle :" << endl;
-cinn >> width2;
+cin >> width2;
 cout << " Length of second rectangle:" << endl;
 cin >> length2;
+
+
+}
