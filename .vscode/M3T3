@@ -1,1 +1,58 @@
+// CSC 134
+// M1LAB - DJ
+// Johnson
+// 8/21/24
+
+
+#include <iostream>
+using namespace std
+
+
+int roll () {
+// get a random number from 1 to 6
+int die = (rand() % 6) + 1;
+return die;
+
+
+// if we define a function after main we need to declare it fi
+
+
+int main() { 
+[
+
+
+
+
+
+//get input
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
